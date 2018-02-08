@@ -39,9 +39,9 @@ public class largestElement
 			{
 				System.out.print("");
 				arrayholder[i][j] = input.nextDouble(); 
-				//System.out.print(array[i][j]);
+				
 			}
-			System.out.println("");
+			
 		}
 		return arrayholder;
 	}
